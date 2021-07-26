@@ -1,0 +1,17 @@
+{
+  "name": "test_gulp-file-include",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install_gulp-cli": "npm -g i gulp-cli",
+    "include": "gulp testInclude"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0",
+    "gulp-rename": "^2.0.0"
+  }
+}
