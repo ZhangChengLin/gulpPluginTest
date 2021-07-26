@@ -1,0 +1,25 @@
+{
+  "name": "test_fundebug-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "fundebug-javascript": "^2.5.0",
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangChengLin/gulpPluginTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhangChengLin/gulpPluginTest/issues"
+  },
+  "homepage": "https://github.com/ZhangChengLin/gulpPluginTest#readme"
+}
