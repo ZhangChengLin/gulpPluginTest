@@ -1,4 +1,6 @@
-require('dotenv').config()
+require('dotenv').config({
+    path:'./env/.env'
+})
 
 const json = {
     host: process.env.DB_HOST,
