@@ -10,6 +10,7 @@ const json = {
 
 const test = (done) => {
     console.log(json)
+    // console.log(process.env)
     done()
 }
 
